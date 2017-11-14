@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CryptoPrices",
+    "version": "1.0.0",
+    "icon": "./icon.png",
+    "slug": "crypto-prices",
+    "sdkVersion": "22.0.0",
+    "android": {
+      "package": "com.tomjal.cryptoprices"
+    }
+  }
+}
